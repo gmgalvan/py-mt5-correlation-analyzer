@@ -29,9 +29,9 @@ Reveals how forex correlations are **dynamic** and change throughout the trading
 
 ## 📈 Generated Charts
 
-![Price Chart](images/price_chart.png)
+![Price Chart](img/price_chart.png)
 
-![Correlation Scatter](images/correlation_scatter.png)
+![Correlation Scatter](img/correlation_scatter.png)
 
 ## 📁 Files Structure
 
